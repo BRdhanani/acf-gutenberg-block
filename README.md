@@ -43,13 +43,19 @@ Now, Open your template file and write rendering code inside it. You can check i
 ## Use 🎿
 Click on Custom Fields menu item on WordPress dashboard.
 Create a new Field group called Testimonial and add below fields
-Title ( type: text )
-Name ( type: text )
-Designation ( type: text )
-Image ( type: image )
-Background Colour ( type: color picker )
-Text Colour ( type: color picker )
-Alignment ( type: select )
+1. Title ( type: text )
+
+2. Name ( type: text )
+
+3. Designation ( type: text )
+
+4. Image ( type: image )
+
+5. Background Colour ( type: color picker )
+
+6. Text Colour ( type: color picker )
+
+7. Alignment ( type: select )
 
 Add a new post and select the block called Testimonial inside formatting category or whatever you've added at the tome of registering block.
 Add the values from the of the above custom fields using control panel on the right.
