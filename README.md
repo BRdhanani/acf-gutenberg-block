@@ -57,8 +57,7 @@ Create a new Field group called Testimonial and add below fields
 
 7. Alignment ( type: select )
 
-Add a new post and select the block called Testimonial inside formatting category or whatever you've added at the tome of registering block.
-Add the values from the of the above custom fields using control panel on the right.
+Add a new post and select the block called Testimonial inside formatting category or whatever you've added at the tome of registering block. Add the values from the of the above custom fields using control panel on the right.
 Now you will be able to see the content of your block template written in php inside the block. 
 You can also add the values of custom field by clicking on the inspector control edit icon, in the block.
 
