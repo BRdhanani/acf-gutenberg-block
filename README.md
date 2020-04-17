@@ -5,7 +5,7 @@ I am using default twenty twenty theme provided by WordPress but you can also us
  
 ## Files You need to look before we started 🚪
 There are two files neccessary to create custom gutenberg block. first is functions.php in which you will write code to register your custom block and second is template file which decides how your block looks like in front end as well as backend.
-
+ 
 ## Getting Started 📋
 Open your functions.php file and add following code to register block.
 ```add_action('acf/init', 'my_acf_init');
